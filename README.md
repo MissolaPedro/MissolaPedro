@@ -8,7 +8,7 @@ Olá! Meu nome é Pedro Escobar Missola e sou um estudante de 16 anos do Institu
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]()
 
 ## Github stats
-![MissolaPedro](https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=github_dark_dimmed)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![MissolaPedro](https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=github_dark)
+
 
 
