@@ -1,10 +1,10 @@
 # Olá eu sou o Pedro
 
 Olá! Meu nome é Pedro Escobar Missola e sou um estudante de 16 anos do Instituto Federal de São Paulo, campus Campinas. com uma paixão pela programação e design de iluminação. Nascido em 26/06/2006, tenho buscado aprimorar minhas habilidades e conhecimentos em diferentes áreas criativas. 
-
+<center>
 ![MissolaPedro](https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&border_radius=12px&title_color=F9F9FA&custom_title=Status&card_width=200px&text_bold=true&ring_color=0D55C3&icon_color=0D55C3&border_color=0D55C3&bg_color=DEG,161616,000000&text_color=919399)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&layout=compact&custom_title=Linguagens&card_width=400px&langs_count=10&border_color=0D55C3&bg_color=DEG,161616,000000&text_color=919399&border_radius=12px&title_color=F9F9FA)
-
+<center>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/missolapedro/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-missola-a6b072212/)
