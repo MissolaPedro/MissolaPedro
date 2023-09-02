@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <section>
     <h1>Olá, eu sou o Pedro Escobar!</h1>
@@ -15,7 +14,7 @@
 <hr>
 <section>
     <h3>🚀 Tecnologias e habilidades</h3>
-    <section style="display: flex; align-items: self-start; gap: 48px;">
+    <section style="display: flex; gap: 48;">
         <div>
             <p style="font-family: sans-serif; ">Tecnologias</p>
             <div>
