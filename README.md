@@ -9,9 +9,9 @@ sejam bem-vindos a torre magica !!
 
 ## 📖 Minha historia.
 
-    Sou um apaixonado por tecnologia, desenvolvimento de software e design. Estudante do IFSP - Instituto Federal São Paulo, campus Campinas.
+Sou um apaixonado por tecnologia, desenvolvimento de software e design. Estudante do IFSP - Instituto Federal São Paulo, campus Campinas.
 
-    Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Minhas áreas de interesse incluem desenvolvimento web, aprendizado de máquina, desenvolvimento de sistemas, desenvolvimento mobile, , engenharia eletrica, design, iluminação, UX/UI e ciencia de dados.
+Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Minhas áreas de interesse incluem desenvolvimento web, aprendizado de máquina, desenvolvimento de sistemas, desenvolvimento mobile, , engenharia eletrica, design, iluminação, UX/UI e ciencia de dados.
 
 ## 🌟 Minhas magias.
 
