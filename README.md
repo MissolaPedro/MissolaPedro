@@ -28,7 +28,7 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
     <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
-- Dominando:
+<p>- Dominando:</p>
 
 <div>
     <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -42,7 +42,7 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
     <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-- Interesse:
+<p>- Interesse:</p>
 
 <div style="display: flex">
     <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
