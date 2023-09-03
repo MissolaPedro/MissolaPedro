@@ -75,7 +75,6 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
 
 ## 🔗 Comunicação
 
-- 📱 Telefone: 19 999811-92492
 - 📧 E-mail: missolapedro@gmail.com
 - 💬 Discord: petter1212
 
