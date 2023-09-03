@@ -1,6 +1,6 @@
 # 🚪 Olá eu sou o Pedro Missola.
 
-sejam bem-vindos a torre magica !!
+Seja bem-vindos(a) ao meu perfil !!
 
 ![Octupus Mages](image/README/1693621427057.png)
 
@@ -12,7 +12,7 @@ Sou um apaixonado por tecnologia, desenvolvimento de software e design. Estudant
 
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Minhas áreas de interesse incluem desenvolvimento web, aprendizado de máquina, desenvolvimento de sistemas, desenvolvimento mobile, , engenharia eletrica, design, iluminação, UX/UI e ciencia de dados.
 
-## 🌟 Minhas magias.
+## 🌟 Minhas habilidades.
 
 - Dominadas:
 
@@ -65,7 +65,7 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
     <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
-## 🌍 Teletransporte
+## 🌍 Links
 
 - [Linkedin](https://www.linkedin.com/in/seu-linkedin)
 - [Portifolio](#)
@@ -73,7 +73,7 @@ Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habi
 - [Comunidade](https://discord.gg/qFuDHHdBD2)
 - [Spotify](https://open.spotify.com/user/lf1ckxgaqohrzulfzn8akwk3i?si=d9af86c71d9841ee)
 
-## 🔗 omunicação
+## 🔗 Comunicação
 
 - 📱 Telefone: 19 999811-92492
 - 📧 E-mail: missolapedro@gmail.com
