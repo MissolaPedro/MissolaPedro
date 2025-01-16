@@ -1,89 +1,62 @@
-# 🚪 Olá eu sou o Pedro Missola.
+# Pedro Missola
 
-Seja bem-vindos(a) ao meu perfil !!
-
-![Octupus Mages](image/README/1693621427057.png)
+Desenvolvedor dedicado à criação de soluções tecnológicas eficientes e funcionais. Com experiência em desenvolvimento web e design de interfaces, estou sempre buscando novas formas de simplificar processos e oferecer experiências impactantes para usuários e empresas.
 
 ---
 
-## 📖 Minha historia.
+## Sobre
 
-Sou um apaixonado por tecnologia, desenvolvimento de software e design. Estudante do IFSP - Instituto Federal São Paulo, campus Campinas.
+* **Educação:** Técnico em Informática pelo Instituto Federal de São Paulo ( **IFSP** ).
+* **Habilidades:** Desenvolvimento web, design gráfico, iluminação cênica, manutenção de computadores e redes.
+* **Interesses:** Projetos inovadores em TI, interfaces de usuário e ferramentas de automação.
 
-Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação. Minhas áreas de interesse incluem desenvolvimento web, aprendizado de máquina, desenvolvimento de sistemas, desenvolvimento mobile, , engenharia eletrica, design, iluminação, UX/UI e ciencia de dados.
+---
 
-## 🌟 Minhas habilidades.
+## Habilidades
 
-- Dominadas:
+**Linguagens e Frameworks**
 
-<div>
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- Dominando:
+**Ferramentas**
 
-<div>
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
-- Interesse:
+---
 
-<div style="display: flex">
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</div>
+## Principais Projetos
 
-## 🌍 Links
+### [Gestor de Projetos](https://github.com/MissolaPedro/gestor-de-projetos)
 
-- [Linkedin](https://www.linkedin.com/in/seu-linkedin)
-- [Portifolio](#)
-- [Instagram](https://www.instagram.com/missolapedro/)
-- [Comunidade](https://discord.gg/qFuDHHdBD2)
-- [Spotify](https://open.spotify.com/user/lf1ckxgaqohrzulfzn8akwk3i?si=d9af86c71d9841ee)
+Sistema que permite gerenciar textos, imagens, contatos e outros conteúdos de sites.
 
-## 🔗 Comunicação
+### [Volunteer Church](https://github.com/MissolaPedro/volunteer-church)
 
-- 📧 E-mail: missolapedro@gmail.com
-- 💬 Discord: petter1212
+Ferramenta para líderes de igrejas organizarem voluntários e eventos com integração a agendas online.
 
-## 📊 Estatisticas
+### [Dashboard Financeiro Pessoal](https://github.com/MissolaPedro/dashboard-financeiro-pessoal)
 
-<div>
-    <a href="https://github.com/MissolaPedro"></a>
-    <img loading="lazy" height=""
-        src="https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&border_radius=12px&title_color=F9F9FA&custom_title=Status&card_width=200px&text_bold=true&ring_color=0D55C3&icon_color=0D55C3&border_color=0D55C3&bg_color=DEG,161616,000000&text_color=919399)](https://github.com/MissolaPedro" />
-    <img loading="lazy" height=""
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&layout=compact&custom_title=Linguagens&card_width=400px&langs_count=10&border_color=0D55C3&bg_color=DEG,161616,000000&text_color=919399&border_radius=12px&title_color=F9F9FA)](https://github.com/MissolaPedro" />
-</div>
+Plataforma para gerenciar receitas, despesas e metas financeiras com gráficos interativos.
+
+### [Organizador para TDAH](https://github.com/MissolaPedro/organizador-tdah)
+
+Site acadêmico focado em ajudar pessoas com TDAH a estruturarem rotinas de estudo.
+
+---
+
+## Estatísticas do GitHub
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&layout=compact&theme=dracula)
+
+---
+
+## Contato
+
+* **LinkedIn:** [Pedro Missola](https://www.linkedin.com/in/pedro-missola/)
+* **E-mail:** [pedro.missola@example.com](mailto:pedro.missola@example.com)
+
+---
+
+Se precisar de ajustes ou quiser personalizar algum detalhe, é só avisar!
