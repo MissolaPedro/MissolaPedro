@@ -39,10 +39,7 @@ Site acadêmico focado em ajudar pessoas com TDAH a estruturarem rotinas de estu
 
 ## Estatísticas do GitHub
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=white&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&hide_progress=true&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissolaPedro&show_icons=true&theme=white) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MissolaPedro&hide_progress=true)
 
 ## Contato
 
