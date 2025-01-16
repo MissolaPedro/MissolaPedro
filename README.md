@@ -44,4 +44,4 @@ Site acadêmico focado em ajudar pessoas com TDAH a estruturarem rotinas de estu
 ## Contato
 
 * **LinkedIn:** [Pedro Missola](https://www.linkedin.com/in/pedro-missola/)
-* **E-mail:** [pedro.missola@example.com](mailto:pedro.missola@example.com)
+* **E-mail:** [missolapedro@gmail.com](mailto:missolapedro@gmail.com)
